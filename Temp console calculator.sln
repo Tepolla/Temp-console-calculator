@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Temp console calculator", "Temp console calculator\Temp console calculator.vcxproj", "{38B7E042-156B-4FC7-8671-19197102C29C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Debug|x64.ActiveCfg = Debug|x64
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Debug|x64.Build.0 = Debug|x64
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Debug|x86.ActiveCfg = Debug|Win32
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Debug|x86.Build.0 = Debug|Win32
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Release|x64.ActiveCfg = Release|x64
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Release|x64.Build.0 = Release|x64
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Release|x86.ActiveCfg = Release|Win32
+		{38B7E042-156B-4FC7-8671-19197102C29C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28DD6DE-27C0-4B82-AC17-AB49C1D98B0A}
+	EndGlobalSection
+EndGlobal
