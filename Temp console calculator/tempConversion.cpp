@@ -1,5 +1,4 @@
 #include "tempConversion.h"
-#include <string>
 
 tempConversion::tempConversion(char S, long double sV) {
 	switch (S) {
