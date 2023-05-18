@@ -3,8 +3,7 @@
 
 class tempConversion {
 private:
-	long double startingValue, F, C, K;
-	char startingUnit, convertingUnit;
+	long double F, C, K;
 
 	long double FahrenheitToCelsius();
 	long double CelsiusToFahrenheit();
