@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Temp console calculator.cpp" />
+    <ClCompile Include="tempConversion.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tempConversion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

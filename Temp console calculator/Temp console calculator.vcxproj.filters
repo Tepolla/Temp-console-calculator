@@ -18,5 +18,13 @@
     <ClCompile Include="Temp console calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tempConversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tempConversion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
