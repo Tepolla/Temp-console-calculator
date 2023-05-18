@@ -37,14 +37,14 @@ long double tempConversion::CelsiusToKelvin() {
 	return (this->C + 273.15);
 }
 
-std::string tempConversion::getFahrenheit() {
-	return (std::to_string(this->F) + " \370F");
+long double tempConversion::getFahrenheit() {
+	return this->F;
 }
 
-std::string tempConversion::getCelsius() {
-	return (std::to_string(this->C) + " \370C");
+long double tempConversion::getCelsius() {
+	return (this->C);
 }
 
-std::string tempConversion::getKelvin() {
-	return (std::to_string(this->K) + " \370K");
+long double tempConversion::getKelvin() {
+	return this->K;
 }

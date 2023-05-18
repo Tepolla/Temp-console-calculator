@@ -1,5 +1,4 @@
 #pragma once
-#include <string>
 
 class tempConversion {
 private:
@@ -12,7 +11,7 @@ private:
 
 public:
 	tempConversion(char S, long double sV);
-	std::string getFahrenheit();
-	std::string getCelsius();
-	std::string getKelvin();
+	long double getFahrenheit();
+	long double getCelsius();
+	long double getKelvin();
 };

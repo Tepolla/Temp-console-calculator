@@ -9,7 +9,7 @@ char characterVerification();
 int main()
 {
     tempConversion TC(characterVerification(), valueVerification());
-    cout << endl << TC.getFahrenheit() << endl << TC.getCelsius() << endl << TC.getKelvin();
+    cout << endl << TC.getFahrenheit() << " \370F" << endl << TC.getCelsius() << " \370C" << endl << TC.getKelvin() << " \370K";
     return 0;
 }
 
